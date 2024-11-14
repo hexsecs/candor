@@ -1,7 +1,7 @@
 # CANdor the Relentless 🧛‍♂️
 ### "A beast that haunts your CAN bus, one relentless byte at a time."
 
-Enter **CANdor the Relentless**, the CAN bus tool that prowls the shadows of your vehicle network, hungry for vulnerabilities and ever-watchful for weak points. Inspired by centuries of *relentless pursuit*, CANdor does not rest, does not sleep, and most importantly, does not *ask* before sinking its teeth into your CAN bus security.
+Will you welcome CANdor into your vehicle? **CANdor the Relentless**, the CAN bus tool that prowls the shadows of your vehicle network, hungry for vulnerabilities and ever-watchful for weak points. Inspired by centuries of *relentless pursuit*, CANdor does not rest, does not sleep, and most importantly, does not *ask* before sinking its teeth into your CAN bus security.
 
 ## 🧛‍♀️ Features
 - **Nightfall Fuzzing Mode** – Step into the darkness of randomized CAN frame mutations with no pattern or mercy.
@@ -16,12 +16,12 @@ Whether in stealth mode or full-on attack, CANdor’s *insatiable* thirst for vu
 Unleashing **CANdor the Relentless** is simple:
 1. **Summon CANdor** to your machine:
    ```bash
-   git clone https://github.com/yourusername/CANdor-the-Relentless.git
+   git clone https://github.com/hexsecs/candor.git
    ```
 2. **Prepare the Ritual**: Set up dependencies.
    ```bash
    cd CANdor-the-Relentless
-   ./install.sh
+   pip install -r requirements.txt
    ```
 3. **Begin the Haunting**:
    ```bash
