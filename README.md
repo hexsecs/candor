@@ -20,7 +20,7 @@ Unleashing **CANdor the Relentless** is simple:
    ```
 2. **Prepare the Ritual**: Set up dependencies.
    ```bash
-   cd CANdor-the-Relentless
+   cd candor
    pip install -r requirements.txt
    ```
 3. **Begin the Haunting**:
